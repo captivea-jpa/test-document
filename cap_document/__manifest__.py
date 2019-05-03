@@ -1,4 +1,4 @@
 {
   'name': 'cap_document',
-  'depends': ['document']
+  'depends': ['contacts', 'document']
 }
